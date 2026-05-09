@@ -4,7 +4,7 @@ const Explore = () => {
     return (
         <div className='flex items-center justify-center bg-black'>
             <div className='flex flex-col p-10 justify-center gap-4 bg-black text-white items-start'>
-                <h1 className='text-5xl font-medium'>More reasons to join </h1>
+                <h1 className='text-4xl font-medium'>More reasons to join </h1>
                 <section className='flex items-center justify-center gap-4 '>
                     <div className='h-72 w-80 bg-gradient-to-r from-purple-800 via-violet-800 to-violet-900 ... rounded-md p-4'>
                         <span className='text-[30px] font-semibold'>Enjoy on your TV</span><br />
